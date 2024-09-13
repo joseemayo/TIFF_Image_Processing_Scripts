@@ -1,2 +1,1 @@
-# misc_scripts
-Scripts that may serve as a reference at some point.
+This script contains Phython scripts that were utilized to discern.
